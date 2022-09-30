@@ -1,0 +1,2 @@
+# TestesAPITemperatura2
+Testes
